@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![kal](https://2ch.hk/pr/src/1215536/15297023514890.jpg)
